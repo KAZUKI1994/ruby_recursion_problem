@@ -41,6 +41,11 @@ ex. [1,3,5,7]
 ## Task4:min
 列の最小値を返す min 関数を作ってください。
 
+## Task5:match_condition
+配列内の値が条件を満たしているかを確認する。
+
+## Task6:puts array in reverse
+配列の値をリバースして表示する。
 
 ## References
 [再帰問題を解く](http://qiita.com/pokotyan/items/53e92a21805f651173aa)
